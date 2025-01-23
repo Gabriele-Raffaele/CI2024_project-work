@@ -360,6 +360,6 @@ Best program of fold 5°: ((((tanh((x5 + 2.95)) + ((sinh(x3) + (-3.91 + ((-0.39 
 
 ## Collaborations
 
-This project was developed collaboratively with [Gabriele Raffaele](https://github.com/Gabriele-Raffaele) and [Giuseppe Vacante](https://github.com/Peppe2212).
+This project was developed collaboratively with [Leone Fabio](https://github.com/LeoneFabio) and [Giuseppe Vacante](https://github.com/Peppe2212).
 
 ---
